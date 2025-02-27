@@ -6,9 +6,9 @@ const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ade.</h1>
+        <h1 className={styles.title}>Hi, I'm Samia.</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 2 years of experience of using React and NodeJS. Reach out if
+          I'm a full-stack developer with 2 years of experience of learning React, NodeJS and python. Reach out if
           you'd like to learn more.
         </p>
         <a className={styles.contactBtn} href="mailto:myemail@email.com">

@@ -28,17 +28,18 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backtend Developer</h3>
               <p>
-                I have experience developing fast and optimised 30 and APIS.
+                I have experience developing fast and optimised data structures
+                and APIS.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uiIcon.png")} alt="UI Icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Quick Learner</h3>
               <p>
-                I have designed miltiple landing pages and have created design
-                systems as well.
+                My adaptability and quick learning abilities have enabled me to
+                rapidly acquire new skills.
               </p>
             </div>
           </li>
